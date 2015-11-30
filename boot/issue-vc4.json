@@ -1,0 +1,127 @@
+{
+    "dri2proto": {
+        "branch": "master",
+        "commit": "b118dfbf91dcec6d82dfddc3f41031e23ea3c039",
+        "url": "git://anongit.freedesktop.org/xorg/proto/dri2proto"
+    },
+    "dri3proto": {
+        "branch": "master",
+        "commit": "91df0f88b70c268f3580385a7b37543ab8c544c8",
+        "url": "git://anongit.freedesktop.org/xorg/proto/dri3proto"
+    },
+    "fontsproto": {
+        "branch": "master",
+        "commit": "f900146aa6d6b67ad5e15436201ce81a874a29a7",
+        "url": "git://anongit.freedesktop.org/xorg/proto/fontsproto"
+    },
+    "glproto": {
+        "branch": "master",
+        "commit": "bd3d751e1eb17efb39f65093271bb4ac071aa9e0",
+        "url": "git://anongit.freedesktop.org/xorg/proto/glproto"
+    },
+    "inputproto": {
+        "branch": "master",
+        "commit": "7c7c2c18864d166391e49758d83e9cc601bbfb17",
+        "url": "git://anongit.freedesktop.org/xorg/proto/inputproto"
+    },
+    "libdrm": {
+        "branch": "master",
+        "commit": "c3deddd9c2bf54fa6bec3dbd9ec7eae5fa22e220",
+        "url": "git://anongit.freedesktop.org/mesa/drm"
+    },
+    "libepoxy": {
+        "branch": "master",
+        "commit": "8bbc0d40c6c4e023e71ac8bfe7f5898005cac920",
+        "url": "https://github.com/anholt/libepoxy.git"
+    },
+    "libevdev": {
+        "branch": "master",
+        "commit": "de23fa00e7070498d7280fa1474a52fdcf26ed9f",
+        "url": "git://anongit.freedesktop.org/libevdev"
+    },
+    "libxcb": {
+        "branch": "master",
+        "commit": "6e0378ebbf5f842992e37c93ad60b960427849ac",
+        "url": "git://anongit.freedesktop.org/xcb/libxcb"
+    },
+    "libxshmfence": {
+        "branch": "master",
+        "commit": "fe2d6dbba6356ff275649017dd516f0270d79595",
+        "url": "git://anongit.freedesktop.org/xorg/lib/libxshmfence"
+    },
+    "linux-2708": {
+        "branch": "rpi-4.2.y",
+        "commit": "90d8a8383784d6076171ab4c22561288e1e374cb",
+        "url": "https://github.com/raspberrypi/linux.git"
+    },
+    "linux-2709": {
+        "branch": "rpi-4.2.y",
+        "commit": "90d8a8383784d6076171ab4c22561288e1e374cb",
+        "url": "https://github.com/raspberrypi/linux.git"
+    },
+    "mesa": {
+        "branch": "master",
+        "commit": "7e6dac11866d264c21a108b9623114943d6e88ec",
+        "url": "git://anongit.freedesktop.org/mesa/mesa"
+    },
+    "mesa-demos": {
+        "branch": "master",
+        "commit": "f941f6b60dea9bb446b97985a9afb6b1b839e81f",
+        "url": "git://anongit.freedesktop.org/mesa/demos"
+    },
+    "presentproto": {
+        "branch": "master",
+        "commit": "ef84007fc4a23d3897b4776906139de9d0698c2a",
+        "url": "git://anongit.freedesktop.org/xorg/proto/presentproto"
+    },
+    "randrproto": {
+        "branch": "master",
+        "commit": "cf3272717e08325f69bdbb759ab35cb4d1839fb7",
+        "url": "git://anongit.freedesktop.org/xorg/proto/randrproto"
+    },
+    "raspberrypi-tools": {
+        "branch": "master",
+        "commit": "f5642106425d430e1f82ee064121a5fd0e05a386",
+        "url": "https://github.com/raspberrypi/tools"
+    },
+    "vc4-buildbot": {
+        "branch": "master",
+        "commit": "2fb0e1555c823657717e15057cf4d3c7c72230d7",
+        "url": "http://github.com/gohai/vc4-buildbot.git"
+    },
+    "xcb-proto": {
+        "branch": "master",
+        "commit": "e500bd837be8366830deb703a7d22d13020fe4c5",
+        "url": "git://anongit.freedesktop.org/xcb/proto"
+    },
+    "xextproto": {
+        "branch": "master",
+        "commit": "66afec3f49e8eb0d4c2e9af7088fc3116d4bafd7",
+        "url": "git://anongit.freedesktop.org/xorg/proto/xextproto"
+    },
+    "xf86-input-evdev": {
+        "branch": "master",
+        "commit": "01e7ac48546d4534fa420ea1873214e738ea125d",
+        "url": "git://anongit.freedesktop.org/xorg/driver/xf86-input-evdev"
+    },
+    "xorg-macros": {
+        "branch": "master",
+        "commit": "8b92f46ab371ec51dac2b73c768173cd63126402",
+        "url": "git://anongit.freedesktop.org/xorg/util/macros"
+    },
+    "xproto": {
+        "branch": "master",
+        "commit": "edc04f87c74abacb57782dc947f81a2810a72537",
+        "url": "git://anongit.freedesktop.org/xorg/proto/xproto"
+    },
+    "xserver": {
+        "branch": "master",
+        "commit": "74be466d40080545117628c376cb59b696db33bc",
+        "url": "git://anongit.freedesktop.org/xorg/xserver"
+    },
+    "xtrans": {
+        "branch": "master",
+        "commit": "1d31b87e8045f3fc89b1914187a9a13861d35f2d",
+        "url": "git://anongit.freedesktop.org/xorg/lib/libxtrans"
+    }
+}
